@@ -1,0 +1,51 @@
+[
+    {
+        "subject": "Python CS50",
+        "start_time": "2026-05-18T15:18:41.650417",
+        "end_time": "2026-05-18T15:19:07.001653",
+        "duration": 25.351236,
+        "active": false
+    },
+    {
+        "subject": "Algebra",
+        "start_time": "2026-05-19T13:45:21.119572",
+        "end_time": "2026-05-19T14:05:55.828363",
+        "duration": 1234.708791,
+        "active": false
+    },
+    {
+        "subject": "Political Science",
+        "start_time": "2026-05-19T14:44:24.397168",
+        "end_time": "2026-05-19T18:14:46.789275",
+        "duration": 12622.392107,
+        "active": false
+    },
+    {
+        "subject": "Algebra",
+        "start_time": "2026-05-19T18:15:10.545794",
+        "end_time": "2026-05-19T18:17:29.506493",
+        "duration": 138.960699,
+        "active": false
+    },
+    {
+        "subject": "Enter subject:",
+        "start_time": "2026-05-25T15:15:19.991699",
+        "end_time": "2026-05-25T15:18:39.929178",
+        "duration": 199.937479,
+        "active": false
+    },
+    {
+        "subject": "Enter subject:",
+        "start_time": "2026-05-25T15:21:48.660914",
+        "end_time": "2026-05-25T15:22:11.522148",
+        "duration": 22.861234,
+        "active": false
+    },
+    {
+        "subject": "Coding",
+        "start_time": "2026-05-25T15:22:16.644107",
+        "end_time": null,
+        "duration": null,
+        "active": true
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Algebra",
+        "added_on": "Sat May 16 20:42:57 2026",
+        "deadline": "Till 25 aug",
+        "done": true
+    },
+    {
+        "task": "Complete cs50 project quicky.",
+        "added_on": "Mon May 25 16:10:43 2026",
+        "deadline": null,
+        "done": false
+    }
+]
